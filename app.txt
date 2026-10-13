@@ -1,2 +1,3 @@
 Aplicación base. Funcionalidades: []
  - Login de usuario implementado."- Carrito de compra implementado." 
+"- Pasarela de pago implementada." 
