@@ -1,1 +1,2 @@
 Aplicación base. Funcionalidades: []
+ - Login de usuario implementado.
