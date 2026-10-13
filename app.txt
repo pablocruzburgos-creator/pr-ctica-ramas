@@ -1,1 +1,3 @@
 Aplicación base. Funcionalidades: []
+
+- Carrito de compra implementado.
