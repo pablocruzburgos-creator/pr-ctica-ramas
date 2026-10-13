@@ -1,2 +1,2 @@
 Aplicación base. Funcionalidades: []
- - Login de usuario implementado.
+- Pasarela de pago implementada. 
